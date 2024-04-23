@@ -13,11 +13,11 @@ JWT Basic is a simple project that demonstrates user authentication using JSON W
 
 - **Backend**: Node.js, Express.js
 - **Authentication**: JSON Web Tokens (JWT)
-- **Additional libraries**: jsonwebtoken for JWT generation and verification, bcryptjs for password hashing, etc.
+- **Additional libraries**: jsonwebtoken for JWT generation and verification, etc.
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/yourusername/jwt-basic.git`
+1. Clone the repository: `git clone https://github.com/Shahzaib-ur-Rehman/jwt-basic.git`
 2. Navigate to the project directory: `cd jwt-basic`
 3. Install dependencies: `npm install`
 4. Start the server: `npm start`
